@@ -247,7 +247,7 @@ function createBotMessage(message) {
     <div class="msg-bubble">
       <div class="msg-text">${message}</div>
       <div class="msg-info">
-      <div class="msg-info-name">Simon</div>
+      <div class="msg-info-name">User</div>
         <div class="msg-info-time">${getTime()}</div>
       </div>
     </div>
